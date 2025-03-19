@@ -12,8 +12,6 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 
-<a href="https://www.instagram.com/_saimaansari/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
 
@@ -22,6 +20,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
+
 name: Piyush Malhotra
 located_in: Calgary, Alberta
 current_job: Full Stack Developer
