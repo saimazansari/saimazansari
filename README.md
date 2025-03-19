@@ -1,13 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-
 <h1 align="center">
   I am Saima Ansari
 </h1>
-
 <p align="center">
-
 <a href="https://www.linkedin.com/in/saima-ansari-11738a24b/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
