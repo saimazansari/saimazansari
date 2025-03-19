@@ -26,33 +26,21 @@ located_in: Mumbai, India.
 current_job: Cloud Operations Engineer
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Microsoft Certified Devops Engineer Expert",
+    "Master's in Computer Science",
+    "Bachelor's in Computer Science",
   ]
-company: Soulber
+company: Saint-Gobain INDEC
+previous company: Tata Consultancy Services.
 
 fields_of_interests:
   [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    "Azure Devops",
+    "CI/CD Automation",
+    "OS Administration",
+    "Cloud Optimization and Management",
   ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+
 ```
   
 ---  
