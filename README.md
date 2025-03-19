@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 🚀 Cloud Engineer | DevOps Specialist | Azure & Terraform Enthusiast  
 💻 Passionate about automating infrastructure, building scalable cloud solutions, and optimizing CI/CD pipelines.
 ---
