@@ -17,13 +17,13 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp;About Me:</h2>
 
 ```yaml
 
 name: Saima Ansari
 located_in: Mumbai, India.
-current_job: Cloud Operations Engineer
+current_job_role: Cloud Operations Engineer
 education:
   [
     "Microsoft Certified Devops Engineer Expert",
@@ -31,9 +31,9 @@ education:
     "Bachelor's in Computer Science",
   ]
 company: Saint-Gobain INDEC
-previous company: Tata Consultancy Services.
+previous_company: Tata Consultancy Services.
 
-fields_of_interests:
+skills:
   [
     "Azure Devops",
     "CI/CD Automation",
@@ -45,7 +45,7 @@ fields_of_interests:
   
 ---  
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="45" height="45"/>
