@@ -8,6 +8,10 @@
 <a href="https://www.linkedin.com/in/saima-ansari-11738a24b/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
+<a href="mailto:saimaansari18@gmail.com">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Icon.png"/>
+</a>
+
 
 </a>
 </p>
