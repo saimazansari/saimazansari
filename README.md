@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
-
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 24px;">
-  🚀 Cloud Operations Engineer @Saint-Gobain INDEC
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Hello, I'm Saima Ansari" />
+</h1>
