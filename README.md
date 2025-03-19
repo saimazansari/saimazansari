@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 🚀 Cloud Engineer | DevOps Specialist | Azure & Terraform Enthusiast  
 💻 Passionate about automating infrastructure, building scalable cloud solutions, and optimizing CI/CD pipelines.
 ---
